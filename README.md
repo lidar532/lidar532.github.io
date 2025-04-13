@@ -1,4 +1,4 @@
-# lidar532.github.io YY
+# lidar532.github.io Y
 
 ## JS snippets
   * [GeoLocation](https://codepen.io/lidar532/live/Bavmmyy)
